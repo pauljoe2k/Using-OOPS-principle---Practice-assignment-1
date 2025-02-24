@@ -1,0 +1,6 @@
+You borrowed "Percy Jackson"
+You borrowed "A Good Girl's Guide to Murder"
+"Percy Jackson" is not available for borrowing.
+You returned "Percy Jackson"
+You borrowed "Percy Jackson"
+You returned "A Good Girl's Guide to Murder"
